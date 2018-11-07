@@ -12,5 +12,4 @@ SI 206 Project 1 - Clean Data.docx - a word file with a more detailed descriptio
 1. To start, **fork** the repository
 1. **Clone** the repository to your computer.
 1. Modify the files and **commit** changes to complete your solution.
-1. **Push** /sync the changes up to GitHub.
-1. Create a **pull request** on the original repository to turn in the assignment.
+1. **Push** /sync the changes up to your fork on GitHub.
